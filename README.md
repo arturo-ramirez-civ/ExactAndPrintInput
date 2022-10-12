@@ -1,1 +1,1 @@
-# ExactAndPrintInput
+# ExtractAndPrint
